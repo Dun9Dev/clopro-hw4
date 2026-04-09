@@ -76,19 +76,19 @@ kubectl cluster-info
 
 ### Terraform output
 
-![terraform output](screenshots/terraform-output.png)
+![terraform output](https://github.com/Dun9Dev/clopro-hw4/blob/main/img/Screenshot_20260409_222706.png
 
 ### Узлы Kubernetes
 
-![kubectl nodes](screenshots/kubectl-nodes.png)
+![kubectl nodes](https://github.com/Dun9Dev/clopro-hw4/blob/main/img/Screenshot_20260409_222852.png)
 
 ### Поды Kubernetes
 
-![kubectl pods](screenshots/kubectl-pods.png)
+![kubectl pods](https://github.com/Dun9Dev/clopro-hw4/blob/main/img/Screenshot_20260409_222909.png)
 
 ### Информация о кластере
 
-![kubectl cluster-info](screenshots/kubectl-cluster-info.png)
+![kubectl cluster-info](https://github.com/Dun9Dev/clopro-hw4/blob/main/img/Screenshot_20260409_222949.png)
 
 ## Структура файлов
 
